@@ -8,16 +8,16 @@ What is a commit?
 - B. One of the multiple histories contained in a git repository.
 - C. Any recent modification made to one of the files in the repository.
 
-### Question 2
+### Question 2 
 
-How can I find out the current state of a repository?
+How can I find out the current state of a repository? 
 
 - A. `git add`
 - B. `git checkout`
 - C. `git status`
 - D. `git branch`
 
-### Question 3
+### Question 3 
 
 What is HEAD?
 
