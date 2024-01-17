@@ -1,0 +1,15 @@
+cd C:\Users\Adam\lab-git-ci-Niphto
+
+I navigate to the directory on my computer.
+
+git add identity.md
+
+I state the changes I made.
+
+git commit -m "Added first and last name to identity.md"
+
+I commit my changes while creating a message explaining what I modified.
+
+git push origin main
+
+I push the changes I made to my remote repository on GitHub.
